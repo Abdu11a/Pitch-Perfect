@@ -10,10 +10,10 @@ iPhone app that will allow users to record their voice and will then modulate th
 ---
 
 ## the app have tow view controller :
-- **First View**  :  allow users to record their voice and will then modulate the recorded audio.
+- **The First View**  :  allow users to record their voice and will then modulate the recorded audio.
 <img src="https://github.com/Abdu11a/Pitch-Perfect/blob/master/PitchPerfect/PitchPerfect%20Screen/Screen%201.png" width=400>
 ---
-- **Second View**  :  allow users to play their recorded voice to sound like a Chipmunk or Darth Vader and also let the user speed up or slow down the rate of playback, and experience fun echo and reverb effects.
+ **The Second View**  :  allow users to play their recorded voice to sound like a Chipmunk or Darth Vader and also let the user speed up or slow down the rate of playback, and experience fun echo and reverb effects.
 
 <img src="https://github.com/Abdu11a/Pitch-Perfect/blob/master/PitchPerfect/PitchPerfect%20Screen/Screen%202.png" width=400>
 
